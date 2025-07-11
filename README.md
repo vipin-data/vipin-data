@@ -44,7 +44,7 @@
 ## 📬 Let's Connect
 
 - 💼 [LinkedIn](www.linkedin.com/in/vipin-maurya-96286a25b)
-- 📧 Email: aadityapd29@gmail.com
+- 📧 Email: mauryavipin962877@gmail.com
 
 > 🔔 *Always open to collaborations, internships, and opportunities in data analytics!*
 
