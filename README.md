@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://vipinanalystics.tech" target="_blank"><b>Visit My Website</b></a>
+  🌐 <a href="https://vipinanalytics.tech" target="_blank"><b>Visit My Website</b></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ## 🌐 My Website
 
 🔗 **vipinanalystics.tech**  
-👉 https://vipinanalystics.tech  
+👉 https://vipinanalytics.tech  
 
 **This website showcases:**
 - My personal brand and learning journey  
@@ -67,7 +67,7 @@
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/vipinanalyst  
 - 📧 **Email:** nextstopuk.vipin@gmail.com  
-- 🌐 **Website:** https://vipinanalystics.tech  
+- 🌐 **Website:** https://vipinanalytics.tech  
 
 > 🔔 *Open to learning opportunities, internships, mentorship, and collaborations.*
 
