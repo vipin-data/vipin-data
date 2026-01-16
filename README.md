@@ -1,37 +1,59 @@
 <h1 align="center">Hi, I'm Vipin 👋</h1>
 
 <p align="center">
-  🎓 BCA Student | Aspiring Data Analyst | Data Storyteller 📊 <br>
-  🔍 Exploring Excel, Python, SQL, Power BI & Machine Learning <br>
-  🌍 Dreaming of UK 🇬🇧 & Germany 🇩🇪 for Data Science career
+  🎓 BCA Student | Aspiring Data Analyst → Data Scientist 📊 <br>
+  🔍 Learning Excel, Python, SQL, Power BI & Machine Learning <br>
+  🌍 Building strong fundamentals and practical skills
+</p>
+
+<p align="center">
+  🌐 <a href="https://vipinanalystics.tech" target="_blank"><b>Visit My Website</b></a>
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🧠 Passionate about solving real-world problems using data
-- 📚 Currently completing: Google, IBM & Microsoft Data Analyst Certificates
-- 🧪 Hands-on projects with Excel, SQL, Python, and Power BI
-- 🌱 Learning GitHub to share my analytics journey publicly
+- 🧠 Beginner Data Analyst focused on building strong foundations  
+- 📊 Learning **Excel, SQL, Python, and Power BI** step by step  
+- 🧪 Practicing data analysis concepts with real datasets  
+- 🌱 Sharing my learning journey openly on GitHub and my website  
+- 🎯 Career goal: **Data Analyst → Data Scientist**
 
 ---
 
-## 📂 My Data Analytics Portfolio
+## 🌐 My Website
 
-| Project Type           | Tools Used             | Description |
-|------------------------|------------------------|-------------|
-| 🚲 Cyclistic Case Study | Excel, SQL, R          | Google capstone on customer behavior |
-| 🎬 Netflix EDA          | Python (Pandas, Matplotlib) | Exploratory data analysis on Netflix titles |
-| 📈 Sales Dashboard      | Power BI               | Interactive sales performance dashboard |
-| 🏥 Healthcare SQL       | MySQL                  | SQL queries for healthcare KPIs |
-| 📉 Data Cleaning        | Excel, Python          | Cleaning messy datasets & analyzing trends |
+🔗 **vipinanalystics.tech**  
+👉 https://vipinanalystics.tech  
 
-🔗 View full projects in [my portfolio repository](https://github.com/vipin-data/vipin-data)
+**This website showcases:**
+- My personal brand and learning journey  
+- Live website deployment using GitHub Pages & custom domain  
+- Future data analytics portfolio (projects will be added gradually)
 
 ---
 
-## 🛠️ Tools & Technologies
+## 📂 Data Analytics Projects
+
+> 🚧 *Projects listed below are currently under development.*
+
+| Project Type | Tools Used | Focus Area | Status |
+|-------------|------------|------------|--------|
+| Excel Dashboard | Excel | Sales analysis, KPIs, trends, charts | **Pending** |
+| Excel Dashboard | Excel | HR analytics (attrition, demographics) | **Pending** |
+| SQL Project | MySQL | E-commerce analytics & business queries | **Pending** |
+| SQL Project | MySQL | Healthcare data analysis | **Pending** |
+| Python EDA | Python (Pandas, Matplotlib) | Retail / Netflix dataset analysis | **Pending** |
+| Python Forecasting | Python | Time-series sales forecasting | **Pending** |
+| Power BI Dashboard | Power BI | Sales & Profit dashboard | **Pending** |
+| Power BI Dashboard | Power BI | HR Attrition analysis | **Pending** |
+
+> ✅ Project status will be updated as work progresses.
+
+---
+
+## 🛠️ Tools & Technologies (Learning)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -43,27 +65,13 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/vipin-maurya-96286a25b)
-- 📧 Email: mauryavipin962877@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/vipinanalyst  
+- 📧 **Email:** nextstopuk.vipin@gmail.com  
+- 🌐 **Website:** https://vipinanalystics.tech  
 
-> 🔔 *Always open to collaborations, internships, and opportunities in data analytics!*
+> 🔔 *Open to learning opportunities, internships, mentorship, and collaborations.*
+
 
 ---
 
-⭐️ *Thanks for visiting! Don’t forget to check out my projects 👇*
-
-
-<!--
-**vipin-data/vipin-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *This profile will evolve as projects are completed. Thanks for visiting!*
